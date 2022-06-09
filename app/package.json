@@ -1,0 +1,39 @@
+{
+  "name": "dynamaker",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dist": "electron-builder",
+    "start": "electron .",
+    "pack": "electron-builder --dir"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dynamaker.tunergames.com/"
+  },
+  "keywords": [
+    "DynaMaker"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://dynamaker.tunergames.com/"
+  },
+  "homepage": "https://dynamaker.tunergames.com/",
+  "devDependencies": {
+    "electron": "^13.1.8",
+    "electron-builder": "^22.9.1"
+  },
+  "build": {
+    "appId": "com.TunerGames.dynamaker",
+    "productName": "DynaMaker",
+    "win": {
+      "target": "portable",
+      "icon": "favicon.ico"
+    }
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
