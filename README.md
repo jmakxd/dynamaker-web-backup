@@ -4,8 +4,9 @@ This is a backup of the DynaMaker website in case it gets taken down again, and 
 https://dynamaker.tunergames.com/
  
 For the modified version of DynaMaker, visit https://github.com/jmakxd/dynamaker-modified
+This version includes more features and ports most features available in the version to the modified one.
 
-I have already forked the original repository once, so I cannot do it again. Here is the original GitHub repository: https://github.com/Darkmota/Dynamaker.dynami.tech
+Here is the original GitHub repository: https://github.com/Darkmota/Dynamaker.dynami.tech
 
 # Screenshots
 <p align="center"><img src="https://cdn.discordapp.com/attachments/984498218400374875/984498256929259550/Screenshot_09-06-2022_174121.png?ex=667cee33&is=667b9cb3&hm=30cc6ac91f2bf7dfde0456bf372cf1477260bfc4cff4db2994d644cd9946a0ae&" style="display:block; margin:auto; width:800px"></p>
